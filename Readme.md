@@ -1,4 +1,4 @@
-# @mbakereth/ldap-controls
+# @mbakereth/ldapjs-controls
 
 This package provides implementations of [LDAP controls][controls]. The
 primary purpose of this library is to facilitate client and server

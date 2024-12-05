@@ -1,6 +1,6 @@
 'use strict'
 
-const { Ber } = require('@mbakereth/ldap-asn1')
+const { Ber } = require('@mbakereth/ldapjs-asn1')
 
 const Control = require('./lib/control')
 const EntryChangeNotificationControl = require('./lib/controls/entry-change-notification-control')
